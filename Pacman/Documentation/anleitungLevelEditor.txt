@@ -1,0 +1,12 @@
+Der Level-Editor war eigentlich nur für mich selbst gedacht, um mir die Level-Arbeit zu ersparen, daher ist die Benutzung nicht unbedingt benutzerfreundlich)
+
+Level-Editor-Anleitung:
+Links-Klick: eine Wand bzw. ein leeres Feld
+Links-Klick + Maus ziehen: Wand/leeres Feld in Form eines Rechtecks mit dem ersten Klick als obere linke Ecke
+Links-Klick und dabei 'g' drücken: Geisterhaus
+Links-Klick und 'e': Geisterhausausgang (nur am oberen Rand des Hauses)
+Links-Klick und 'p': Superpille
+
+Rechts-Klick: Spieler-Spawnpunkt (wird zum Speichern benötigt)
+
+Taste 's': speichern; um vom Hauptprogramm erkannt zu werden in den Level-Ordner mit einem Namen der Form level<nummer>.txt
